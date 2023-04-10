@@ -30,7 +30,7 @@ a {
 }
 
 section ul {
-    background-color: antiquewhite;
+    background-color: #FAEBD7;
     border:brown 5px solid;
 }
 
@@ -45,7 +45,7 @@ p {
 }
 
 section p {
-    background-color: hotpink;
+    background-color: #FAEBD7;
     margin-top: auto;
     margin-left: auto;
 }
