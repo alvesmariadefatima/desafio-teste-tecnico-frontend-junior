@@ -35,12 +35,12 @@ section ul {
 }
 
 section h1 {
-    color: aliceblue;
+    color: #A52A2A;
 }
 
 p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: aliceblue;
+    color: #A52A2A;
     font-size: 30px;
 }
 
@@ -54,4 +54,13 @@ footer p {
     color:maroon;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: bold;
+}
+
+section {
+width:60%;
+margin:0 auto;
+}
+
+section section {
+width:100%;
 }
