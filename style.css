@@ -19,13 +19,13 @@ h2 {
 .menu-principal {
     display:inline;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
 }
 
 a {
     color:maroon;
     text-decoration-line: none;
-    padding: 20px;
+    padding: 10px;
     font-size: 30px;
 }
 
